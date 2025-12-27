@@ -1,1 +1,1 @@
-line 1: base content: changed by hunterdou
+line 1: base content: compromise
